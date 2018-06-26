@@ -1,17 +1,15 @@
-#URL Shortener - readme
+# Ice Cream Shop - readme
 
-##About us
+## about us
 
-We are a website that helps users make URLs smaller than they really are. Say a user has a website with 40 or so letters and numbers in it, we make it to where the URL gets way smaller, but still accesses the same location as the longer one.
+We are a company that is looking to help make people's lives a little easier. This project helps making the sharing of URLs simpler. Instead of having to copy and paste a 100 character URL, you will get one that is maybe 20 characters.
 
-## Core Team
-
+## core team
 + Adrienne Chaney
 
-## Documentation
+## documentation
 
-If you would like to know more, [read our docs](https://bing.com)
+if you want to know more, [read our docs](https://google.com)
 
-## License
-
-Licensed under the [MIT license](https://github.com/1806-jun04-net/adriennenc-code/blob/master/LICENSE)
+## license
+licensed under the [MIT license](https://github.com/adriennenc/adrienne-project0/blob/master/README.md)
